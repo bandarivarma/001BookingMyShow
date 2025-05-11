@@ -10,6 +10,8 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		system.out.println("vyshnavi");
 		system.out.println("varma");
+		system.out.println("manu");
+
 	}
 
 }
